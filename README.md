@@ -18,7 +18,7 @@ bios bin that we dumped using a programmer if both are the same (it is not going
 #lets begin:
 
 
-##1- dumping the Bios 
+## 1- dumping the Bios 
 
 we need to backup the bios using a CH341A programmer, download the project and unzip CH341A.zip, after you unzip it go to Drivers folder and run SETUP and install it.
 
