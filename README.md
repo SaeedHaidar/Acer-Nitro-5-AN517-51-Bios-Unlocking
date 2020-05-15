@@ -13,11 +13,6 @@ first we need to backup our courrent bios using FTW64.exe as we need this to ver
 
 bios bin that we dumped using a programmer if both are the same (it is not going to be 100% same but that is okay) then we are good to go, i will show you how to determined if the bios is correct or not.
 
-
-
-# let´s begin:
-
-
 ## 1- dumping the Bios 
 
 we need to backup the bios using a CH341A programmer, download the project and unzip CH341A.zip, after you unzip it go to Drivers folder and run SETUP and install it.
