@@ -3,7 +3,7 @@
 ## WIP...
 
 
-#i have tested this only with 1.28 and 1.29 bios veriosn
+# i have tested this only with 1.28 and 1.29 bios veriosn
 
 In this Tutoral i will show you how you can unlock the bios for Acer Nitro 5 AN517-51 to disable CFG Lock to have better Power Managment and unlock a ton of hidden settings.
 
@@ -15,7 +15,7 @@ bios bin that we dumped using a programmer if both are the same (it is not going
 
 
 
-#lets begin:
+# lets begin:
 
 
 ## 1- dumping the Bios 
