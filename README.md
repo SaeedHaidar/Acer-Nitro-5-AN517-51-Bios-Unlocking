@@ -15,7 +15,7 @@ bios bin that we dumped using a programmer if both are the same (it is not going
 
 
 
-# lets begin:
+# let´s begin:
 
 
 ## 1- dumping the Bios 
