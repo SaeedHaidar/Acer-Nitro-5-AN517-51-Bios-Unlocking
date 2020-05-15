@@ -45,3 +45,5 @@ when it finishs you have to save the dumped bios :
 now you haev to do this with other software i thing it is clear i do not want to make this totural long anyway
 
 when you done dumping the bios using a programmer we can now start comparing with the one that we dumped early with FTW64.exe to see if everything is okay 
+
+### i will correct the grammar when i finish
